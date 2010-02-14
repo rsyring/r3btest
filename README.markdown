@@ -1,4 +1,4 @@
-== Rails 3 Beta Test Application
+# Rails 3 Beta Test Application
 
 Going to try and walk through the tutorial here:
 
